@@ -12,4 +12,4 @@ zebranie informacji larpowych w jednym miejscu oraz ujednolicenie kanałów komu
 - F05. wyświetlanie mapy i terminów wydarzeń
 
 # autorzy
-Adam Szyller, Oleksandr Vorobiov, Renji Shade
+Adam Szyller, Oleksandr Vorobiov, Noivry Noire
